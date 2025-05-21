@@ -1,1 +1,8 @@
-@import "tailwindcss";
+@import 'tailwindcss';
+
+body {
+    background-color: #faf9d4;
+    display: grid;
+    place-items: center;
+    place-content: center;
+}
